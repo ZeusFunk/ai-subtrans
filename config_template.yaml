@@ -1,0 +1,7 @@
+origin: "1.srt"
+result: "1_translated.srt"
+interval: 10
+apiKey: "sk-=================================="
+apiUrl: "https://=========/v1/chat/completions"
+thread: 10
+isTTS: False
